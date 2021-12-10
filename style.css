@@ -1,0 +1,34 @@
+.alien{
+    width: 300;
+    height: 300;
+}
+
+body{
+    font-family: 'Corinthia', cursive;
+    background-color: blanchedalmond;
+    font-weight: bolder;
+}
+
+.header_div{
+    color:lightslategrey ;
+    background-color: tan;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    background-color:ghostwhite ;
+    color: grey;
+    width: 100%;
+    text-align: center;
+    font-size: 23.87543px;
+    line-height: 3;
+}
+
+hr{
+    border: 1px dashed seagreen;
+}
+
+#str{
+    font-family: 'smooch', cursive;
+}
